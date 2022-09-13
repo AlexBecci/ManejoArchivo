@@ -1,0 +1,7 @@
+Hola desde Java
+Como estas?
+Hola de nuevo
+Probando los metodos
+Linea
+Lineaaa
+Archivo terminadooo
